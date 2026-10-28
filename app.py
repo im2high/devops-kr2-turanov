@@ -1,3 +1,4 @@
+#KR2: Туранов
 import os
 import socket
 
